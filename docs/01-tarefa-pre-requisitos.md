@@ -40,7 +40,7 @@ Configurar a máquina virtual no Oracle VM VirtualBox de forma compatível com a
 ### ❓ [QUESTÃO 1]
 O VirtualBox permite o uso de controladoras do tipo SATA, IDE, SCSI e SAS. Por que para sistemas operacionais modernos (como Windows 11) a controladora SATA/NVMe é o padrão, enquanto para o Windows XP fomos obrigados a criar manualmente uma controladora IDE?
 
-**Sua Resposta:**
+**Sua Resposta:O Windows XP é antigo e só reconhece o padrão IDE. Ele não tem os drivers para aceitar o padrão SATA. Já os sistemas novos já vêm prontos para os discos modernos.**
 > 
 
 ---
